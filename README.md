@@ -8,7 +8,7 @@ This code only supports three data formats: GGA, RMC, and HDT, and you can add m
 
 This code was written and tested in a ros2 humble environment.
 
-1.install
+  1.install
 
 2. colcon build
 
